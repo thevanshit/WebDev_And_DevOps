@@ -1,0 +1,89 @@
+/* Basic reset and fonts */
+* { box-sizing: border-box; margin: 0; padding: 0; } /* Easier layout math */
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: linear-gradient(135deg,#0f172a 0%, #020617 100%); /* moody background */
+  color: #e6eef8; /* light text */
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+}
+
+/* App container */
+.app {
+  width: 100%;
+  max-width: 720px;
+  background: rgba(255,255,255,0.03);
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 6px 30px rgba(2,6,23,0.8);
+  backdrop-filter: blur(6px);
+}
+
+/* Header */
+.header { margin-bottom: 12px; text-align: center; }
+.title { font-size: 28px; letter-spacing: 0.6px; margin-bottom: 4px; }
+.subtitle { font-size: 13px; color: #b9c4d6; }
+
+/* Controls */
+.controls { display:flex; gap:8px; margin: 12px 0; }
+#todo-input {
+  flex: 1;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid rgba(255,255,255,0.06);
+  background: rgba(255,255,255,0.02);
+  color: inherit;
+  font-size: 15px;
+}
+#add-btn {
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  background: linear-gradient(180deg,#2563eb,#1e40af);
+  color: white;
+}
+
+/* Status row */
+.status { display:flex; justify-content:space-between; align-items:center; margin-bottom:8px; color:#b9c4d6; font-size:13px; }
+.status-actions { display:flex; gap:8px; }
+.status-actions button { padding:6px 10px; border-radius:8px; border:none; cursor:pointer; background: rgba(255,255,255,0.03); color: inherit; }
+
+/* Todo list */
+.todo-list { list-style:none; margin-top: 8px; display:flex; flex-direction:column; gap:8px; }
+
+/* Each todo item */
+.todo {
+  display:flex;
+  align-items:center;
+  gap:10px;
+  padding:10px;
+  border-radius:10px;
+  background: rgba(255,255,255,0.01);
+  border: 1px solid rgba(255,255,255,0.02);
+  transition: transform .12s ease, opacity .12s ease;
+}
+.todo:hover { transform: translateY(-3px); }
+
+/* Checkbox */
+.todo input[type="checkbox"] { width:18px; height:18px; }
+
+/* Todo text */
+.todo-text { flex:1; font-size:15px; word-break:break-word; padding-right:8px; }
+
+/* Completed style */
+.completed .todo-text { text-decoration: line-through; opacity:0.6; }
+
+/* Buttons on each item */
+.todo-actions { display:flex; gap:6px; }
+.todo-actions button { padding:6px 8px; border-radius:8px; border:none; cursor:pointer; font-size:13px; background: rgba(255,255,255,0.02); color: inherit; }
+
+/* Edit input inside item */
+.edit-input { flex:1; padding:6px; border-radius:6px; border:1px solid rgba(255,255,255,0.04); }
+
+/* Footer */
+.footer { margin-top:12px; text-align:center; color:#92a3bf; font-size:12px; }
