@@ -1,0 +1,2 @@
+Create another file (b.txt)
+Write the code to read the other file synchronously

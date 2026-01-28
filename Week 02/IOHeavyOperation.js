@@ -3,6 +3,9 @@ const fs = require("fs");
 const contents = fs.readFileSync("a.txt", "utf-8"); // Objects
 console.log(contents);
 
+const contents_ = fs.readFileSync("b.txt", "utf-8");
+console.log(contents_);
+
 // Let's Make an Object
 
 var User = {
