@@ -1,0 +1,4 @@
+Let’s try to write code to do an I/O heavy operation - 
+Open VS code,
+Create a file in there (a.txt) with some text inside,
+Write the code to read a file synchronously.
