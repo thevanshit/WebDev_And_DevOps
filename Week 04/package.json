@@ -1,13 +1,22 @@
 {
-  "name": "week-04",
+  "name": "webdev_and_devops",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repository contains my **week-wise learning and code implementations** from **Cohort 3.0 by Harkirat Singh**.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thevanshit/WebDev_And_DevOps.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thevanshit/WebDev_And_DevOps/issues"
+  },
+  "homepage": "https://github.com/thevanshit/WebDev_And_DevOps#readme"
 }
