@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/thevanshit/WebDev_And_DevOps/issues"
   },
-  "homepage": "https://github.com/thevanshit/WebDev_And_DevOps#readme"
+  "homepage": "https://github.com/thevanshit/WebDev_And_DevOps#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
 }
