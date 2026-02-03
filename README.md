@@ -1,36 +1,37 @@
-<<<<<<< HEAD
 # Web Development & DevOps – Cohort 3.0
 
-This repository contains my **week-wise learning and code implementations** from **Cohort 3.0 by Harkirat Singh**.
+This repository documents my **week-wise learning, lecture codes, assignments, solutions, notes, and hands-on implementations** from **100xDevs Cohort 3.0**, taught by **Harkirat Singh**.
 
-I am learning **Web Development and DevOps** through this cohort, and this repository serves as a structured record of the concepts, code, and hands-on practice I have completed during the course.
+I am learning **Web Development and DevOps** through this cohort, and this repository serves as a structured, long-term record of the concepts, code, and practical work completed during the course.
 
 ---
 
 ## About the Course
 
-- **Cohort Name:** Cohort 3.0  
-- **Instructor:** Harkeerath Singh  
-- **Learning Focus:**
-  - Web Development fundamentals and advanced concepts
-  - DevOps tools and workflows
-  - Practical, industry-relevant coding practices
-  - Hands-on learning with real examples
+- **Cohort Name:** 100xDevs Cohort 3.0  
+- **Instructor:** Harkirat Singh  
+- **Official Platform:** https://app.100xdevs.com  
 
-The course is well-structured, conceptually strong, and highly practical. It focuses on building a solid foundation while encouraging consistent coding and real-world problem solving.
+### Learning Focus
+- Web Development fundamentals and advanced concepts  
+- DevOps tools and workflows  
+- Practical, industry-relevant coding practices  
+- Hands-on learning with real-world examples  
+
+The course is conceptually strong and highly practical, focusing on building solid foundations, consistency, and real-world engineering thinking.
 
 ---
 
 ## Repository Overview
 
-This repository is organized **week-wise**, following the course structure.
+This repository is organized **week-wise**, strictly following the cohort structure.
 
 Each week may include:
-- Code written while learning concepts
+- Live lecture code
 - Practice exercises and assignments
-- Implementations done during lectures
-- Experiments and hands-on practice
-- Supporting files related to Web Development and DevOps
+- Assignment solutions
+- Notes, slides, and external references
+- Experiments and hands-on implementations
 
 This structure helps track progress clearly and makes revision and reference easier.
 
@@ -39,10 +40,16 @@ This structure helps track progress clearly and makes revision and reference eas
 ## Purpose of This Repository
 
 - To document my learning journey in Web Development and DevOps
-- To maintain clean and version-controlled code
-- To practice Git and GitHub workflows
-- To build consistency and discipline in coding
+- To maintain clean, version-controlled code
+- To practice real Git and GitHub workflows
+- To build long-term consistency and discipline
 - To use this repository as a future reference
+
+---
+
+## Class / Lecture Slides
+
+- [Class / Lecture Slides Index](./Lecture%20Slides.md)
 
 ---
 
@@ -55,22 +62,8 @@ Some code may be experimental or simplified as part of the learning process.
 
 ## Acknowledgment
 
-Thanks to **Harkeerath Singh** for creating a well-designed and practical course that emphasizes strong fundamentals, hands-on learning, and real-world development practices.
-=======
-# **`100xDevs Cohort 3.0 Web Dev + Devops🚀`**
+Thanks to **Harkirat Singh** for creating a well-structured and practical course that emphasizes strong fundamentals, hands-on learning, and real-world development practices.
 
-> #### **_[100xDevs Cohort 3.0](https://app.100xdevs.com/) 🚀 by [Harkirat Singh](https://x.com/kirat_tw). This repository contains `live class/lecture codes, lecture assignments, assignment solutions, links to notes/slides link, some good relevant articles/blogs link` for each lecture, and a list of all topics covered in the class, organized lecture-wise to help you._**
-
-### [**Class/Lecture Slides Link**](./Lecture%20Slides.md)
-
-### **Contents**
-
-** `Note:` Click on the arrow sign to expand to see each topics in details with link.**
-
-### [**Class/Lecture Slides Link**](./Lecture%20Slides.md)
-
-<details>
-<summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 01 - Orientation, HTML/CSS/Basic JS</summary>
 
 ## 📚 [ Week 01 - Orientation, HTML/CSS/Basic JS](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/)
 
@@ -78,84 +71,84 @@ Thanks to **Harkeerath Singh** for creating a well-designed and practical course
 
 > **`Topics Covered:` HTML Basic -** Tags, Attributes, title, body, div, span, h1-h6, b, i, u, br, a, center, img, input, button... & **CSS Basic -** inline css, external css, color, background-color, selectors, class, id, font-size, font-weigth, border, padding, margin, flexbox... & **Build some part of VS Code Landing Page**.
 
--   👨‍💻 [**Lecture Codes**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/Assignment%20Solution/)
-    -   [VS Code Landing Page Clone Live Link 🚀](https://vscode-clone-bharat.vercel.app/)
+-   [**Lecture Codes**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/Lecture%20Codes/)
+-   [**Notes/Slides & Articles/Blogs Link**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation%20Notes.md)
+-   [**Lecture Assignment**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation%20Assignment.md)
+-   [**Assignment Solution**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.1%20-%20Web%20Dev%20+%20Devops%20Orientation/Assignment%20Solution/)
+    -   [VS Code Landing Page Clone Live Link ](https://vscode-clone-bharat.vercel.app/)
 
-### 💻 [**1.2 - Basics of JavaScript**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/)
+### [**1.2 - Basics of JavaScript**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/)
 
 > **`Topics Covered:` JavaScript Basic -** Interpreted, Compiled Time Language, Dynamically Typed, Single threaded, Multithreading, Garbage collector, JavaScript Synatx, Variables, var, let, const, datatypes, numer, string, boolean, operators, functions, if/else, loops, objects, arrays, array of objects, object of objects, problem solving and solved assignment problems.
 
--   👨‍💻 [**Lecture Codes**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/1.2%20-%20Basics%20of%20JavaScript%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/1.2%20-%20Basics%20of%20JavaScript%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/Assignment%20Solution/)
-    -   [Zerodha Landing Page Clone Live Link 🚀](https://zerodha-clone-bharat.vercel.app/)
+-   [**Lecture Codes**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/Lecture%20Codes/)
+-   [**Notes/Slides & Articles/Blogs Link**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/1.2%20-%20Basics%20of%20JavaScript%20Notes.md)
+-   [**Lecture Assignment**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/1.2%20-%20Basics%20of%20JavaScript%20Assignment.md)
+-   [**Assignment Solution**](./Week%2001%20-%20Orientation,%20HTML,CSS,Basic%20JS/1.2%20-%20Basics%20of%20JavaScript/Assignment%20Solution/)
+    -   [Zerodha Landing Page Clone Live Link](https://zerodha-clone-bharat.vercel.app/)
 
 </details>
 
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Cohort 2 Warmup Videos</summary>
 
-## 📚 [Cohort 2 Warmup Videos](./Cohort%202%20Warmup%20Videos/)
+## [Cohort 2 Warmup Videos](./Cohort%202%20Warmup%20Videos/)
 
 > **`Topics Covered`: VS Code Installation & HTML Basic -** Tags, Attributes, Heading(h1-h6), div, span, title, body, head, p, img, a, input, button,b, br, center... & **CSS Basic -** Inline CSS, color, id, class, selector, color, background-color, font-size, font-weight, padding, margin, text-align, border, border-radius, box-shadow, float, flexbox & **Build Some Part of Zerodha Landing Page**.
 
--   💻 [**Intro, Setting up your IDE**](./Cohort%202%20Warmup%20Videos/1.%20Intro,%20Setting%20up%20your%20IDE/)
--   💻 [**Basic HTML (Tags and Attributes)**](./Cohort%202%20Warmup%20Videos/2.%20Basic%20HTML%20-%20Tags%20and%20Attributes/)
--   💻 [**Basic CSS**](./Cohort%202%20Warmup%20Videos/3.%20Basic%20CSS/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Notes.md)
--   📝 [**Lecture Assignment**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Assignment.md)
--   👨‍💻 [**Assignment Solution**](./Cohort%202%20Warmup%20Videos/Assignment%20Solution/)
-    -   [Zerodha Landing Page Clone Live Link 🚀](https://zerodha-clone-bharat.vercel.app/)
-    -   [Portfolio Returns Calculator Live Link 🚀](https://compound-interest-calculator-psi.vercel.app/)
+-   [**Intro, Setting up your IDE**](./Cohort%202%20Warmup%20Videos/1.%20Intro,%20Setting%20up%20your%20IDE/)
+-   [**Basic HTML (Tags and Attributes)**](./Cohort%202%20Warmup%20Videos/2.%20Basic%20HTML%20-%20Tags%20and%20Attributes/)
+-   [**Basic CSS**](./Cohort%202%20Warmup%20Videos/3.%20Basic%20CSS/)
+-   [**Notes/Slides & Articles/Blogs Link**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Notes.md)
+-   [**Lecture Assignment**](./Cohort%202%20Warmup%20Videos/Cohort%202%20Warmup%20Videos%20Assignment.md)
+-   [**Assignment Solution**](./Cohort%202%20Warmup%20Videos/Assignment%20Solution/)
+    -   [Zerodha Landing Page Clone Live Link](https://zerodha-clone-bharat.vercel.app/)
+    -   [Portfolio Returns Calculator Live Link](https://compound-interest-calculator-psi.vercel.app/)
 
 </details>
 
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 02 - Async JS</summary>
 
-## 📚 [Week 02 - Async JS](./Week%2002%20-%20Async%20JS/)
+## [Week 02 - Async JS](./Week%2002%20-%20Async%20JS/)
 
-### 💻 [**2.1 - Async JS**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/)
+### [**2.1 - Async JS**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/)
 
 > **`Topics Covered:`** Synchronous, Asynchronous Code, I/O heavy operations, fs Module, fs.readFile, fs.readFileSync, I/O bound tasks vs CPU bound tasks, Functional Arguments, Callbacks, setTimeout, Call Stack... & Solve Some Problems.
 
--   👨‍💻 [**Lecture Codes**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/2.1%20-%20Async%20JS%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/2.1%20-%20Async%20JS%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/Assignment%20Solution/)
+-   [**Lecture Codes**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/Lecture%20Codes/)
+-   [**Notes/Slides & Articles/Blogs Link**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/2.1%20-%20Async%20JS%20Notes.md)
+-   [**Lecture Assignment**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/2.1%20-%20Async%20JS%20Assignment.md)
+-   [**Assignment Solution**](./Week%2002%20-%20Async%20JS/2.1%20-%20Async%20JS/Assignment%20Solution/)
 
-### 💻 [**2.2 - Promises**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/)
+### [**2.2 - Promises**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/)
 
 > **`Topics Covered:`** Class and Object, Date & Map Class, Callback, setTimeOut, Promise Class, Creating promisified version of fs.readFile and Solve Some Problems.
 
--   👨‍💻 [**Lecture Codes**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/Lecture%20Codes/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/2.2%20-%20Promises%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/2.2%20-%20Promises%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/Assignment%20Solution/)
+-   [**Lecture Codes**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/Lecture%20Codes/)
+-   [**Notes/Slides & Articles/Blogs Link**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/2.2%20-%20Promises%20Notes.md)
+-   [**Lecture Assignment**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/2.2%20-%20Promises%20Assignment.md)
+-   [**Assignment Solution**](./Week%2002%20-%20Async%20JS/2.2%20-%20Promises/Assignment%20Solution/)
 
 </details>
 
 <details>
 <summary style="display: inline; font-size: 20px; font-weight: 700; cursor: pointer;" title="Click on me to Expand">Week 02 - Offline Videos</summary>
 
-## 📚 [Week 02 - Offline Videos](./Week%2002%20-%20Offline%20Videos/)
+## [Week 02 - Offline Videos](./Week%2002%20-%20Offline%20Videos/)
 
 > **`Topics Covered:`** Node.js Installation, Linux Command Basic and Advanced(cd, pwd, ls, touch, mkdir, rm, mv, cat, cp, chmod, echo, head, tail, |, wc, grep, history), Bash Scripting, Vim Editor, How to solve Assignment, Solve Basic CSS Assignment, VSCode Landing Page, Callback Hell, setTimeout(), async/await, Promisified Version of readFile using async/await and Solved Some Problems
 
--   💻 [**1. Bash and Terminals (Basics)**](<./Week%2002%20-%20Offline%20Videos/1.%20Bash%20and%20Terminals%20(Basics)>)
--   💻 [**2. Bash Advance (Laisha)**](./Week%2002%20-%20Offline%20Videos/2.%20Bash%20Advance/)
--   💻 [**3. Installing Node.js, How to solve an assignment**](./Week%2002%20-%20Offline%20Videos/3.%20Installing%20Node.js,%20How%20to%20solve%20an%20assignment/)
--   💻 [**4. Solving VSCode Assignment**](./Week%2002%20-%20Offline%20Videos/4.%20Solving%20VSCode%20Assignment/)
--   💻 [**5. Callback hell, Rejects and async-await**](./Week%2002%20-%20Offline%20Videos/5.%20Callback%20hell,%20Rejects%20and%20async-await/)
--   📖 [**Notes/Slides & Articles/Blogs Link**](./Week%2002%20-%20Offline%20Videos/Week%2002%20-%20Offline%20Videos%20Notes.md)
--   📝 [**Lecture Assignment**](./Week%2002%20-%20Offline%20Videos/Week%2002%20-%20Offline%20Videos%20Assignment.md)
--   🖥️ [**Assignment Solution**](./Week%2002%20-%20Offline%20Videos/Assignment%20Solution/)
-    -   [Whole Page of VS Code Clone Live Link 🚀](https://vscode-clone-bharat.vercel.app/)
--   📒[**Cohort 3.0 - GitHub Assignment Repository Link**](https://github.com/100xdevs-cohort-3/assignments)
+-   [**1. Bash and Terminals (Basics)**](<./Week%2002%20-%20Offline%20Videos/1.%20Bash%20and%20Terminals%20(Basics)>)
+-   [**2. Bash Advance (Laisha)**](./Week%2002%20-%20Offline%20Videos/2.%20Bash%20Advance/)
+-   [**3. Installing Node.js, How to solve an assignment**](./Week%2002%20-%20Offline%20Videos/3.%20Installing%20Node.js,%20How%20to%20solve%20an%20assignment/)
+-   [**4. Solving VSCode Assignment**](./Week%2002%20-%20Offline%20Videos/4.%20Solving%20VSCode%20Assignment/)
+-   [**5. Callback hell, Rejects and async-await**](./Week%2002%20-%20Offline%20Videos/5.%20Callback%20hell,%20Rejects%20and%20async-await/)
+-   [**Notes/Slides & Articles/Blogs Link**](./Week%2002%20-%20Offline%20Videos/Week%2002%20-%20Offline%20Videos%20Notes.md)
+-   [**Lecture Assignment**](./Week%2002%20-%20Offline%20Videos/Week%2002%20-%20Offline%20Videos%20Assignment.md)
+-   [**Assignment Solution**](./Week%2002%20-%20Offline%20Videos/Assignment%20Solution/)
+    -   [Whole Page of VS Code Clone Live Link](https://vscode-clone-bharat.vercel.app/)
+-   [**Cohort 3.0 - GitHub Assignment Repository Link**](https://github.com/100xdevs-cohort-3/assignments)
 
 </details>
 
